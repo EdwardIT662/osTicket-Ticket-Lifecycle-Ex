@@ -48,7 +48,7 @@ Creating three tickets with different SLAs.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Logging in as a help desk professional to see the assignments and to communicate whoever submitted tickets.
+Logging in as a help desk professional to see the assignments and to communicate with everyone who submitted tickets.
 </p>
 <br />
 
